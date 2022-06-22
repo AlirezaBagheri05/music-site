@@ -1,0 +1,30 @@
+.btn_div_org{
+    width: auto;
+    height: auto;
+    margin: 10px;
+    margin: 0px auto 0px;
+    margin-top: 100px;
+}
+.btn_div_org a{
+    width: 200px;
+    height: 100px;
+    background-color: grey;
+    margin: 10px;
+    display: table;
+    border: 2px solid #269abc;
+    border-radius:15px;
+    margin: 0px auto 0px;
+    text-align: center;
+    padding-top: 35px;
+    text-decoration:none;
+    box-shadow: 0px 0px 10px 0px gray;
+    font-size: 20px;
+    color: black;
+    transition: all 0.5s;
+    margin-bottom: 15px;
+}
+
+.btn_div_org a:hover{
+    background-color: white;
+    
+}

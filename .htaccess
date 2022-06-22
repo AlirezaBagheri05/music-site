@@ -1,0 +1,15 @@
+﻿Options All -Indexes
+
+<IfModule mod_rewrite.c>
+
+ReWriteEngine on
+ReWriteBase /mysite/
+ReWriteRule ^index\.php - [L]
+ReWritecond %{REQUEST_FILENAME} !-f
+ReWritecond %{REQUEST_FILENAME} !-d
+ReWriteRule . index.php [L]
+
+</IfModule>
+
+
+
