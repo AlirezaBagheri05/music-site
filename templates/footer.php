@@ -29,7 +29,7 @@
                                                   </ul>
                     </div>
                     <div class="tb_l_footer_div"><ul>
-                                                    <li>first first first first</li>
+                                                    <li>first first first hi</li>
                                                     <li>second sececond sececond sececond second second second second</li>
                                                     <li> third third third third</li>
                                                     <li>first first first</li>
